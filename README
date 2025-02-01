@@ -1,3 +1,13 @@
-dlib for
-opencv for reading video
-face_recognition for reading images
+V1.0 is now live
+    - The model is now fully operational, and can recognise every individual with an image in the 'faces' direcotry
+
+
+Quality of Life Improvements Req:
+    - FPS Tanks when indetifing indivuals
+    - Make a more seemless way to close the application
+    - Improve Graphics of Elements
+
+
+Future Goals:
+    - Write an algo that sorts and groups images indiviuals and indetifies them via webcam
+    - Use my learnings of each module to create a 'FACE ID' like autheticator for projects like the Warzone Tracker
